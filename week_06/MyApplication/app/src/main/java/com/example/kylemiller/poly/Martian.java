@@ -4,7 +4,7 @@ package com.example.kylemiller.poly;
  * Created by kylemiller on 18/09/2017.
  */
 
-public class Martian {
+public class Martian implements Walkable {
     private String name;
     private int age;
 
